@@ -50,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
