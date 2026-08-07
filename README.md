@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0991-broken-calculator](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0991-broken-calculator) |
 ## String
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0300-longest-increasing-subsequence](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Hash Table
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
