@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0881-boats-to-save-people](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3731-find-missing-elements](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0991-broken-calculator](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0991-broken-calculator) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Sorting
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3731-find-missing-elements](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
