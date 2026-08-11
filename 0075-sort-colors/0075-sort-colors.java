@@ -1,5 +1,7 @@
 class Solution {
     public void sortColors(int[] nums) {   
+        // This is solved using Two pointers approach 
+        // Here two pass is used to solved this  
         int left = 0;
         int right = nums.length - 1;
         // Move all 0s to the left
