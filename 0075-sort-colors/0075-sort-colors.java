@@ -1,35 +1,26 @@
 class Solution {
-    public void sortColors(int[] nums) {
-        // This is solved using one Pass Dutch National Flag Algorithm 
-        // Here Only pass is used to solve this 
-        // This is the Most optimal approach to solve this Question 
-        int low  = 0 ;
-        int mid = 0;
-        int high = nums.length - 1;
+    public void sortColors(int[] nums) {   
+        int left = 0;
+        int right = nums.length - 1;
+        // Move all 0s to the left
 
-        while(mid <= high){
-            if(nums[mid] == 0){
-                swap(nums , low , mid);
-                low++;
-                mid++;
+        for(int i = 0; i <= right ; i++){
+            if(nums[i] == 0){
+                swap(nums, i , left);
+                left++;
             }
-            else if(nums[mid] == 1){
-                mid++;
-
-            }else  {
-                swap(nums , mid, high);
-                high--;
-            }
-
-
+        }
+        for(int i = right ; i >= left ; i--){
+            if(nums[i] == 2){
+                swap(nums , i , right);
+                right--;
             }
         }
 
-private void swap(int[] nums , int i , int j ){
-    int temp = nums[i];
-    nums[i] = nums[j];
-    nums[j] = temp;
-
-        
+    }
+    private void swap(int[] nums, int i , int j ){
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp; 
     }
 }
