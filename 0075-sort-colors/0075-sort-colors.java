@@ -1,5 +1,8 @@
 class Solution {
     public void sortColors(int[] nums) {
+        // This is solved using one Pass Dutch National Flag Algorithm 
+        // Here Only pass is used to solve this 
+        // This is the Most optimal approach to solve this Question 
         int low  = 0 ;
         int mid = 0;
         int high = nums.length - 1;
