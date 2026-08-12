@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Longest Increasing Subsequence
@@ -110,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Stack
 |  |
