@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2405-optimal-partition-of-string](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 ## Dynamic Programming
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Hash Table
 |  |
