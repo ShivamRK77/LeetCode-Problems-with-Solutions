@@ -42,6 +42,12 @@ class Solution {
         return -1;
 
 
+ // Optimal Approach is to use Frequency Array
+
+ 
+         
+
+
 
 
 
