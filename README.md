@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2405-optimal-partition-of-string](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 ## Dynamic Programming
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
