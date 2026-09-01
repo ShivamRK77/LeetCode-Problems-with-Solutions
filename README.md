@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -201,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
