@@ -1,11 +1,10 @@
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
-     int n = nums.length;
-     int low = 0;
-     int high = 0;
-     int sum = 0;
+    int n = nums.length;
+    int low = 0; 
+    int high = 0 ;
     int res = Integer.MAX_VALUE;
-
+    int sum = 0;
      
 
     if(high > n){
