@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0881-boats-to-save-people](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0991-broken-calculator](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0991-broken-calculator) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -185,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Minimax
 |  |
