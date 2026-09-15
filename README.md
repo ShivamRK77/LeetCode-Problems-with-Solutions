@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0991-broken-calculator](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0991-broken-calculator) |
@@ -197,15 +198,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [1927-sum-game](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -273,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
