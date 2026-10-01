@@ -12,6 +12,7 @@ class Solution {
          dp[n] = cost[n] + Math.min(solve(cost , n - 1 , dp),solve(cost, n -2 , dp));
          return dp[n];
     }
+    
     public int minCostClimbingStairs(int[] cost) {
          int n = cost.length;
          int dp[] = new int[n + 1];
