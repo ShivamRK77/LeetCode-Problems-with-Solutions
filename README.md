@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Hash Table
