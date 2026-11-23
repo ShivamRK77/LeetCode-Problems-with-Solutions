@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0991-broken-calculator](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0991-broken-calculator) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1927-sum-game](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
@@ -291,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ShivamRK77/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
